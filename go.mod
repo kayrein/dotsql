@@ -1,4 +1,4 @@
-module github.com/qustavo/dotsql
+module github.com/kayrein/dotsql
 
 go 1.18
 
